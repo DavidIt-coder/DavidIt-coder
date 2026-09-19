@@ -1,6 +1,6 @@
 # 自我介绍
 
-我是 [David]，我的 GitHub 用户名是 **DavidIt-coder**。
+我是 [David JIE]，我的 GitHub 用户名是 **DavidIt-coder**。
 
 ## 关于我
 
